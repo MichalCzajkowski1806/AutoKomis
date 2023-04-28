@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AutoKomis
+build_property.RootNamespace = AutoKomis
+build_property.ProjectDir = D:\Michał\Studia\Semestr IV\BD\Github komis\AutoKomis\AutoKomis\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Michał\Studia\Semestr IV\BD\Github komis\AutoKomis\AutoKomis
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Auto/CreateAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xDcmVhdGVBdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Auto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Auto/SzukajDostepnychSamochodow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xTenVrYWpEb3N0ZXBueWNoU2Ftb2Nob2Rvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Auto/UpdateAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xVcGRhdGVBdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Auto/ZnajdzAutoOdpowiednieParametry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1xabmFqZHpBdXRvT2Rwb3dpZWRuaWVQYXJhbWV0cnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Pracownik/CreatePracownik.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY293bmlrXENyZWF0ZVByYWNvd25pay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Pracownik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY293bmlrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Pracownik/UpdatePracownik.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY293bmlrXFVwZGF0ZVByYWNvd25pay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Pracownik/ZnajdzPracownika.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJhY293bmlrXFpuYWpkelByYWNvd25pa2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Sprzedaz/CreateSprzedaz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByemVkYXpcQ3JlYXRlU3ByemVkYXouY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Sprzedaz/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByemVkYXpcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Sprzedaz/SzukajSprzedaży.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByemVkYXpcU3p1a2FqU3ByemVkYcW8eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Sprzedaz/UpdateSprzedaz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ByemVkYXpcVXBkYXRlU3ByemVkYXouY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Michał/Studia/Semestr IV/BD/Github komis/AutoKomis/AutoKomis/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iqubj8difs
